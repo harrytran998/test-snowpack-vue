@@ -1,3 +1,3 @@
-# New Project
+# Vue 3 + Typescript + Tailwind v2 + Snowpack
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ BUMPP!!! How .....
