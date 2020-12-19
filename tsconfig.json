@@ -6,7 +6,7 @@
     "moduleResolution": "node",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src"]
+      "@app/*": ["./src/*"]
     },
     /* noEmit - Snowpack builds (emits) files, not tsc. */
     "noEmit": true,
